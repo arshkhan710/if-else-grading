@@ -1,0 +1,13 @@
+{
+  "name": "practice-14-3-2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {"access": "public"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
